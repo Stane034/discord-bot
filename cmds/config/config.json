@@ -1,0 +1,9 @@
+{
+  "title": "BOTNAME",
+  "slika" : "BOTLOGO",
+  "color": "#000000",
+  "token": "BOTTOKEN",
+  "prefix": ".",
+  "premcolor": "#000000",
+  "cdn": "http://thatziv.ddns.net"
+}
